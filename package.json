@@ -1,0 +1,22 @@
+{
+  "name": "coin-collector",
+  "version": "1.0.0",
+  "description": "coin collector coding rooms task",
+  "main": "coins.js",
+  "scripts": {
+    "test": "jest --watch-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobyha01/coin-collector.git"
+  },
+  "author": "Toby Hamilton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobyha01/coin-collector/issues"
+  },
+  "homepage": "https://github.com/tobyha01/coin-collector#readme",
+  "dependencies": {
+    "jest": "^29.4.2"
+  }
+}
